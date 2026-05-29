@@ -10,8 +10,6 @@ this is a fork of [fmhy/FMHY-SafeGuard](https://github.com/fmhy/FMHY-SafeGuard) 
 
 ## original vs. this version
 
-this is a fork of the [fmhy/FMHY-SafeGuard](https://github.com/fmhy/FMHY-SafeGuard) project.
-
 ### changes from original
 
 - redesigned the ui with a dark pkm aesthetic. all text is now lowercase. extension renamed from fmhy-safe-guard to site-safety-detector. auto-update checking added.
