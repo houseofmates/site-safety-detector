@@ -21,7 +21,3 @@ this project is a fork of [fmhy/FMHY-SafeGuard](https://github.com/fmhy/FMHY-Saf
 ## license
 
 this project is licensed under [GPL-3.0](LICENSE), inherited from the original fmhy/FMHY-SafeGuard.
-
-## installation
-
-download the `.xpi` file from releases and open it in firefox, or load it temporarily via `about:debugging` > this firefox > load temporary add-on.
